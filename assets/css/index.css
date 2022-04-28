@@ -1,0 +1,35 @@
+header {
+  background-color: #212529;
+}
+
+header a {
+  color: #fff;
+}
+
+main section {
+  background-color: #212529;
+}
+
+main h1 {
+  color: #fff;
+  margin-top: 50px;
+}
+
+main p {
+  color: #fff;
+}
+
+main .btn1 {
+  color: #fff;
+  margin-right: 20px;
+  margin-top: 50px;
+}
+
+main .btn2 {
+  margin-right: 20px;
+  margin-top: 50px;
+}
+
+section h1 {
+  margin-top: 50px;
+}
